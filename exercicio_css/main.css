@@ -103,3 +103,18 @@ section h2 {
 #economy .articles article a {
     background-color: #ff9f1a;
 }
+
+#entertainment{
+    background-color: blanchedalmond;
+}
+
+#entertainment .articles article a {
+    background-color: rgb(161, 93, 93);
+}
+
+#tecnology{
+    background-color: dodgerblue;
+}
+
+#tecnology .articles article a {
+    background-color: dimgray;
